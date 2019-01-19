@@ -3,10 +3,11 @@ table{
     border-collapse: collapse;
 }
 
-th,
+/* th,
 td {
     display: inline-block;
-}
+    width: 100%;
+} */
 
 .jumbotron {
     background-image: url("../images/train.png");
