@@ -7,3 +7,7 @@ th,
 td {
     display: inline-block;
 }
+
+.jumbotron {
+    background-image: url("../images/train.png");
+}
